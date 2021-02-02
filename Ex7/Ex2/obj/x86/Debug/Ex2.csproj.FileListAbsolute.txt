@@ -1,0 +1,7 @@
+c:\users\etecvav\documents\visual studio 2010\Projects\Ex2\Ex2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\etecvav\documents\visual studio 2010\Projects\Ex2\Ex2\bin\Debug\Ex2.exe
+c:\users\etecvav\documents\visual studio 2010\Projects\Ex2\Ex2\bin\Debug\Ex2.pdb
+c:\users\etecvav\documents\visual studio 2010\Projects\Ex2\Ex2\obj\x86\Debug\Ex2.exe
+c:\users\etecvav\documents\visual studio 2010\Projects\Ex2\Ex2\obj\x86\Debug\Ex2.pdb
+G:\Etec\C#\17-02-2014\Ex2\Ex2\obj\x86\Debug\Ex2.exe
+G:\Etec\C#\17-02-2014\Ex2\Ex2\obj\x86\Debug\Ex2.pdb
